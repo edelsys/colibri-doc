@@ -1,3 +1,10 @@
+---
+layout: default
+parent: Examples
+title: Message handlers
+nav_order: 6
+---
+
 #  Implementing mavlink v2 message handlers
 
 Colibri has stackable networking pipeline and provides two ways to work with messages.
