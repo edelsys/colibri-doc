@@ -1,3 +1,5 @@
 # colibri-doc
-# colibri-doc
-# colibri-doc
+
+$$
+f(x) = \partial{x}
+$$
