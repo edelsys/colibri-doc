@@ -5,6 +5,8 @@ permalink: /readme/
 ---
 
 
-# colibri-doc
+## Docs
 
 $$ f(x) = \partial{x} $$
+
+{% jupyter_notebook "notebooks/eq1.ipynb" %}
