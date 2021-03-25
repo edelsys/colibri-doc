@@ -5,7 +5,7 @@ description: site description.
 baseurl: "/colibri-doc"
 url: "https://edelsys.github.io"
 
-theme: just-the-docs
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 search_enabled: true
