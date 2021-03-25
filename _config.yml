@@ -3,7 +3,7 @@ email: your-email@example.com
 description: site description.
 
 baseurl: "/colibri-doc"
-url: ""
+url: "https://edelsys.github.io"
 
 theme: just-the-docs
 
