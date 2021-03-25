@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-permalink: /
+layout: page
+title: About
+permalink: /readme/
 ---
+
 
 # colibri-doc
 
