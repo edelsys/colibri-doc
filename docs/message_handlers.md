@@ -3,6 +3,7 @@ layout: default
 parent: Examples
 title: Message handlers
 nav_order: 6
+categories: examples
 ---
 
 ###  Implementing mavlink v2 message handlers
@@ -11,15 +12,6 @@ Colibri has stackable networking pipeline and provides two ways to work with mes
 For mavlink communication it is highly recommended use table-based method.
 
 Here is an example on how you can add simple mavlink communication:
-
----
-layout: post
-title:  "Welcome to Jekyll!"
-parent: Examples
-title: Message handlers
-nav_order: 6
-categories: examples
----
 
 ### Declare message handlers
 
